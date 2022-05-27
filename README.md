@@ -1,6 +1,6 @@
 # webhooks-tools.py
 ## Features
-- [x] - [Delete Webhooks] - <u>supprimer le webhooks</u>
-- [x] - [Spam Webhooks] - <u>Smap le webhooks en Embed</u>
-- [x] - [Send Webhooks] - <u>Envoyer un message normale</u>
-- [x] - [Credit] - <u>GlaxiO#8132<u>
+- [x] - [Delete Webhooks] - supprimer le webhooks
+- [x] - [Spam Webhooks] - Smap le webhooks en Embed
+- [x] - [Send Webhooks] - Envoyer un message normale
+- [x] - [Credit] - Discord | GlaxiO#8132 | Github |https://github.com/Glaxifiak
